@@ -7,3 +7,5 @@ The dataset was taken from Kaggle, which includes 10 genres, and 100 audio files
 In the code, I have tried feature extraction creating a .csv file
 
 The models used are LogisticRegression, RandomForest, SVM and KNN
+
+Please note that "prediction using knn.pynb" file has the extra work that was done using different methods if compared with the main notebook, having LogisticRegression, RandomForest and SVM
